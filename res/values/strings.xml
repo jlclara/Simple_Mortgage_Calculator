@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, QuickMortgageCalculator!</string>
+    <string name="app_name">Quick Mortgage Calculator</string>
+    <string name="loan_amount">Loan\nAmount</string>
+    <string name="rate">Interest\nRate</string>
+    <string name="ten_year">10 yr</string>
+    <string name="fifteen_year">15 yr</string>
+    <string name="thirty_year">30 yr</string>
+    <string name="five_percent">5%</string>
+    <string name="monthly_payment">Monthly\nPayment</string>
+    <string name="term">Term</string>
+    <string name="zero">0.00</string>
+    <string name="action_settings">title</string>
+    <string name="twenty_year">20 yr</string>
+</resources>
